@@ -1,0 +1,2 @@
+# EntropyRandom
+Intropy &amp; Random
